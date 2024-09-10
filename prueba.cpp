@@ -6,5 +6,6 @@ main(int argc, char const *argv[])
     cout<<"Ingrese un entero: ";
     cin>>num;
     cout<<"Se ingreso el numero "<<num<<"correctamente";
+    cout<<"mensajito";
     return 0;
 }
