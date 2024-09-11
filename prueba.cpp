@@ -7,6 +7,6 @@ main(int argc, char const *argv[])
     cin>>num;
     cout<<"Se ingreso el numero "<<num<<"correctamente";
     cout<<"mensajito";
-    cout<<"nota del yo del futuro";
+    cout<<"nota del yo del futuro...";
     return 0;
 }
